@@ -46,9 +46,9 @@ public class MainActivity extends AppCompatActivity {
                             }
                         });
                 TextView tv = (TextView) bar.getView().findViewById(android.support.design.R.id.snackbar_text);
-                tv.setMaxLines(10);
-                tv.setTextColor(Color.CYAN);
-                tv.setTextSize(20);
+                tv.setMaxLines(50);
+                tv.setTextColor(Color.BLUE);
+                tv.setTextSize(15);
                 bar.show();
             }
         });
