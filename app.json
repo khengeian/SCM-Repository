@@ -1,0 +1,10 @@
+{
+  "name": "SCMLabAssignment",
+  "description": "This is Group 6 Lab Assignment",
+  "keywords": [
+    "java",
+    "express"
+  ],
+  "repository": "https://github.com/khengeian/SCM-Repository.git",
+  "logo": "https://nodejs.org/images/logos/nodejs.png"
+}
